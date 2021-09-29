@@ -1,0 +1,17 @@
+##
+## Tapir
+## by Peleg Sapir (sort of)
+##
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+      _,.,.__,--.__,-----.
+   ,""   '))              `.
+ ,'   e                    ))
+(  .='__,                  ,
+ `~`     `-\  /._____,/   /
+          | | )    (  (   ;
+          | | |    / / / / 
+vvvvVVvvVvVVVvvVVVvvVVvVvvvVvvvVv
+
+EOC
