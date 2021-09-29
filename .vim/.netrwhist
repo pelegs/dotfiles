@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/pelegs'
+let g:netrw_dirhist_1='/home/pelegs/.tmux'
+let g:netrw_dirhist_0='/home/pelegs/.tmux/plugins'
+let g:netrw_dirhist_9='/home/pelegs/.tmux/plugins/tpm'
+let g:netrw_dirhist_8='/home/pelegs/.tmux/plugins/tpm/docs'
+let g:netrw_dirhist_7='/home/pelegs/.tmux/plugins/tpm'
+let g:netrw_dirhist_6='/home/pelegs/.tmux/plugins'
+let g:netrw_dirhist_5='/home/pelegs/.tmux/plugins/tpm'
+let g:netrw_dirhist_4='/home/pelegs/.tmux/plugins'
+let g:netrw_dirhist_3='/home/pelegs/.tmux/plugins/tmux-sensible'
